@@ -15,14 +15,14 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-Dublin"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Moises Chavira-Flores"
+title                    : "Moisés Chavira-Flores, U.C.D. Ph.D. student"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Moisés Chavira-Flores"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "My professional website"
+url                      : "https://moiseschaviraflores-oss.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -114,7 +114,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Moisés Chavira Flores"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
